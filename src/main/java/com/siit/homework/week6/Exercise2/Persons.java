@@ -1,8 +1,5 @@
 package com.siit.homework.week6.Exercise2;
 
-
-import lombok.*;
-
 import java.util.*;
 
 public class Persons {
@@ -31,20 +28,6 @@ public class Persons {
         Map<Persoana, List<Hobby>> personsMap = new HashMap<>();
 
     }
-
-
-
-}
-
-@Getter
-@Setter
-@RequiredArgsConstructor
-@ToString
-@EqualsAndHashCode
-class Persoana {
-    private final String name;
-    private final Integer age;
-
 }
 
 

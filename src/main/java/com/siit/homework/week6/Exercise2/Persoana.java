@@ -7,7 +7,8 @@ import lombok.*;
 @AllArgsConstructor
 @ToString
 @EqualsAndHashCode
-class Adresa {
+class Persoana {
+    private final String name;
+    private final Integer age;
 
-    private final String address;
 }
