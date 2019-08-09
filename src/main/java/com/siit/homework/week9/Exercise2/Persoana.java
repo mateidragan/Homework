@@ -1,4 +1,4 @@
-package com.siit.homework.week6.Exercise2;
+package com.siit.homework.week9.Exercise2;
 
 import lombok.*;
 
